@@ -4,3 +4,8 @@
     background-color: #ffffff;
     padding: 5px 10px;   
 }
+
+p.msg-box {
+    font-size: 40px;
+}
+
